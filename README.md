@@ -10,7 +10,7 @@
 
 ---
 
-![Project Preview]([YOUR_APP_PREVIEW.gif])
+![Project Preview](public/preview.png)
 
 ---
 
