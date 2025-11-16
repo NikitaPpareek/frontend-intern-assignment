@@ -4,7 +4,7 @@
 
 <br>
 
-[**Click Here for Live Demo**]('https://frontend-intern-assignment-a2jg.vercel.app/')
+[**Click Here for Live Demo**](https://frontend-intern-assignment-a2jg.vercel.app/)
 
 <br>
 
