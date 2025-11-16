@@ -1,6 +1,6 @@
 
 import React from "react";
-import "./products.css";
+import "./Products.css";
 
 export default function Products({ products, loading, onProductClick }) {
   if (loading) return <h2 className="loading">Loading...</h2>;
