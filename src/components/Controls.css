@@ -1,0 +1,26 @@
+.controls-bar {
+  width: 100%;
+  display: flex;
+  gap: 12px;
+  padding: 15px;
+  background: #e8f2ff;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  border-bottom: 2px solid rgba(0,0,0,0.05);
+}
+
+.controls-bar input,
+.controls-bar select,
+.controls-bar button {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1.5px solid #a5c4ff;
+}
+
+.controls-bar input {
+  flex: 1;
+}
+
+.controls-bar button {
+  background: white;
+  cursor: pointer;
+}
