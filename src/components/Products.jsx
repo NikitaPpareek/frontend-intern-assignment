@@ -1,4 +1,4 @@
-// src/components/Products.jsx
+
 import React from "react";
 import "./products.css";
 

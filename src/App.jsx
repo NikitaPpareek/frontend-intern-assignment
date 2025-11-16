@@ -1,4 +1,4 @@
-// src/App.jsx
+
 import { useState, useEffect } from "react";
 import Header from "./components/Header";
 import Controls from "./components/Controls";
